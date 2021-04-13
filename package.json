@@ -1,0 +1,17 @@
+{
+  "name": "todo-app-master",
+  "version": "1.0.0",
+  "description": "this is a app for setting tasks and deleting them after finishing them;",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
